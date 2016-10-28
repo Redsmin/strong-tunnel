@@ -28,7 +28,7 @@
   "homepage": "https://github.com/strongloop/strong-tunnel",
   "devDependencies": {
     "buffer-equal-constant-time": "^1.0.1",
-    "eslint": "^0.18.0",
+    "eslint": "^3.9.0",
     "jscs": "^1.11.3",
     "tap": "^1.3.2"
   },
