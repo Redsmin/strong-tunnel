@@ -30,7 +30,7 @@
     "buffer-equal-constant-time": "^1.0.1",
     "eslint": "^0.18.0",
     "jscs": "^1.11.3",
-    "tap": "^1.3.2"
+    "tap": "^10.0.0"
   },
   "dependencies": {
     "ssh2": "^0.4.4"
